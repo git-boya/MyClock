@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_main.xml",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\layout\\list_main.xml"
+    }
+]

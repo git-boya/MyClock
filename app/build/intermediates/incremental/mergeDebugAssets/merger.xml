@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AS_workspace\AlarmManagerDemo\app\src\main\assets"><file name="a_new_day.mp3" path="E:\AS_workspace\AlarmManagerDemo\app\src\main\assets\a_new_day.mp3"/></source><source path="E:\AS_workspace\AlarmManagerDemo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AS_workspace\AlarmManagerDemo\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\android-sdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AS_workspace\AlarmManagerDemo\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_e44863f079ca9b5e71d7bc7783dbcacfd3d87f2b.jar" />
+    </item>
+
+</items>

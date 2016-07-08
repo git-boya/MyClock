@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ios7_switch_on.png",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\drawable-hdpi\\ios7_switch_on.png"
+    },
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ios7_switch_off.png",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\drawable-hdpi\\ios7_switch_off.png"
+    },
+    {
+        "merged": "E:\\AS_workspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AS_workspace\\AlarmManagerDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
